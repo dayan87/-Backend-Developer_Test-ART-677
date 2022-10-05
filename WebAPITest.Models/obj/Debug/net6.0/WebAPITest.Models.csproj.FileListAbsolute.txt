@@ -1,0 +1,12 @@
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\bin\Debug\net6.0\WebAPITest.Models.deps.json
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\bin\Debug\net6.0\WebAPITest.Models.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\bin\Debug\net6.0\WebAPITest.Models.pdb
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.csproj.AssemblyReference.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.AssemblyInfoInputs.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.AssemblyInfo.cs
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.csproj.CoreCompileInputs.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\refint\WebAPITest.Models.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\WebAPITest.Models.pdb
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.Models\obj\Debug\net6.0\ref\WebAPITest.Models.dll

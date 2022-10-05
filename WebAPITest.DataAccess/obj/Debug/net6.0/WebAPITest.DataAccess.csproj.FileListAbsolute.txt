@@ -1,0 +1,15 @@
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\bin\Debug\net6.0\WebAPITest.DataAccess.deps.json
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\bin\Debug\net6.0\WebAPITest.DataAccess.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\bin\Debug\net6.0\WebAPITest.DataAccess.pdb
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\bin\Debug\net6.0\WebAPITest.Models.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\bin\Debug\net6.0\WebAPITest.Models.pdb
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.csproj.AssemblyReference.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.AssemblyInfoInputs.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.AssemblyInfo.cs
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.csproj.CoreCompileInputs.cache
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.csproj.CopyComplete
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\refint\WebAPITest.DataAccess.dll
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\WebAPITest.DataAccess.pdb
+Z:\GitHub\dayan87\WebAPITest\WebAPITest.DataAccess\obj\Debug\net6.0\ref\WebAPITest.DataAccess.dll

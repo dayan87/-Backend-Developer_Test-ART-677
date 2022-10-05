@@ -1,0 +1,65 @@
+2022-10-05 14:59:53.691  IN  Now listening on: https://localhost:7044
+2022-10-05 14:59:53.732  IN  Now listening on: http://localhost:5044
+2022-10-05 14:59:53.737  IN  Application started. Press Ctrl+C to shut down.
+2022-10-05 14:59:53.737  IN  Hosting environment: Development
+2022-10-05 14:59:53.737  IN  Content root path: Z:\GitHub\dayan87\WebAPITest\WebAPITest\
+2022-10-05 14:59:56.177  IN  Request starting HTTP/2 GET https://localhost:7044/swagger/index.html - -
+2022-10-05 14:59:56.905  IN  Request finished HTTP/2 GET https://localhost:7044/swagger/index.html - - - 200 - text/html;charset=utf-8 800.5096ms
+2022-10-05 14:59:56.965  IN  Request starting HTTP/2 GET https://localhost:7044/_framework/aspnetcore-browser-refresh.js - -
+2022-10-05 14:59:56.981  IN  Request starting HTTP/2 GET https://localhost:7044/_vs/browserLink - -
+2022-10-05 14:59:57.031  IN  Request finished HTTP/2 GET https://localhost:7044/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 65.4350ms
+2022-10-05 14:59:57.177  IN  Request finished HTTP/2 GET https://localhost:7044/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 196.9563ms
+2022-10-05 14:59:58.142  IN  Request starting HTTP/2 GET https://localhost:7044/swagger/v1/swagger.json - -
+2022-10-05 14:59:58.501  IN  Request finished HTTP/2 GET https://localhost:7044/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 359.0876ms
+2022-10-05 15:00:03.064  IN  Request starting HTTP/2 GET https://localhost:7044/api/Actuals - -
+2022-10-05 15:00:03.077  IN  Executing endpoint 'WebAPITest.Controllers.ActualsController.GetActuals (WebAPITest)'
+2022-10-05 15:00:03.125  IN  Route matched with {action = "GetActuals", controller = "Actuals"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[WebAPITest.Models.Actuals]]] GetActuals() on controller WebAPITest.Controllers.ActualsController (WebAPITest).
+2022-10-05 15:00:04.303  IN  Entity Framework Core 6.0.9 initialized 'WebAPITestContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.9' with options: None
+2022-10-05 15:00:04.717  IN  Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "a"."State", "a"."ActualHouseholds", "a"."ActualPopulation"
+FROM "Actuals" AS "a"
+2022-10-05 15:00:04.807  IN  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebAPITest.Models.Actuals, WebAPITest.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-10-05 15:00:04.821  IN  Executed action WebAPITest.Controllers.ActualsController.GetActuals (WebAPITest) in 1688.0841ms
+2022-10-05 15:00:04.821  IN  Executed endpoint 'WebAPITest.Controllers.ActualsController.GetActuals (WebAPITest)'
+2022-10-05 15:00:04.827  IN  Request finished HTTP/2 GET https://localhost:7044/api/Actuals - - - 200 - application/json;+charset=utf-8 1763.1527ms
+2022-10-05 15:02:32.206  IN  Now listening on: https://localhost:7044
+2022-10-05 15:02:32.256  IN  Now listening on: http://localhost:5044
+2022-10-05 15:02:32.262  IN  Application started. Press Ctrl+C to shut down.
+2022-10-05 15:02:32.262  IN  Hosting environment: Development
+2022-10-05 15:02:32.262  IN  Content root path: Z:\GitHub\dayan87\WebAPITest\WebAPITest\
+2022-10-05 15:02:34.637  IN  Request starting HTTP/2 GET https://localhost:7044/swagger/index.html - -
+2022-10-05 15:02:35.442  IN  Request starting HTTP/2 GET https://localhost:7044/_framework/aspnetcore-browser-refresh.js - -
+2022-10-05 15:02:35.465  IN  Request finished HTTP/2 GET https://localhost:7044/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 21.3748ms
+2022-10-05 15:02:35.474  IN  Request finished HTTP/2 GET https://localhost:7044/swagger/index.html - - - 200 - text/html;charset=utf-8 851.0349ms
+2022-10-05 15:02:35.547  IN  Request starting HTTP/2 GET https://localhost:7044/_vs/browserLink - -
+2022-10-05 15:02:35.743  IN  Request finished HTTP/2 GET https://localhost:7044/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 195.2406ms
+2022-10-05 15:02:36.475  IN  Request starting HTTP/2 GET https://localhost:7044/swagger/v1/swagger.json - -
+2022-10-05 15:02:36.967  IN  Request finished HTTP/2 GET https://localhost:7044/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 492.6557ms
+2022-10-05 15:02:50.401  IN  Request starting HTTP/2 GET https://localhost:7044/api/Actuals/1,4,3 - -
+2022-10-05 15:02:50.421  IN  Executing endpoint 'WebAPITest.Controllers.ActualsController.GetActualsById (WebAPITest)'
+2022-10-05 15:02:50.478  IN  Route matched with {action = "GetActualsById", controller = "Actuals"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[WebAPITest.Models.Actuals]] GetActualsById(System.String) on controller WebAPITest.Controllers.ActualsController (WebAPITest).
+2022-10-05 15:02:53.031  IN  Entity Framework Core 6.0.9 initialized 'WebAPITestContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.9' with options: None
+2022-10-05 15:02:54.416  IN  Executed DbCommand (33ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "a"."State", "a"."ActualHouseholds", "a"."ActualPopulation"
+FROM "Actuals" AS "a"
+WHERE "a"."State" = @__p_0
+LIMIT 1
+2022-10-05 15:02:54.570  IN  Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "a"."State", "a"."ActualHouseholds", "a"."ActualPopulation"
+FROM "Actuals" AS "a"
+WHERE "a"."State" = @__p_0
+LIMIT 1
+2022-10-05 15:02:54.572  IN  Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "a"."State", "a"."ActualHouseholds", "a"."ActualPopulation"
+FROM "Actuals" AS "a"
+WHERE "a"."State" = @__p_0
+LIMIT 1
+2022-10-05 15:02:54.578  IN  Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "e"."State", "e"."Districts", "e"."EstimatesHouseholds", "e"."EstimatesPopulation"
+FROM "Estimates" AS "e"
+WHERE "e"."State" = @__p_0
+LIMIT 1
+2022-10-05 15:02:54.599  IN  Executing OkObjectResult, writing value of type 'WebAPITest.Models.Actuals[]'.
+2022-10-05 15:02:54.620  IN  Executed action WebAPITest.Controllers.ActualsController.GetActualsById (WebAPITest) in 4131.0756ms
+2022-10-05 15:02:54.620  IN  Executed endpoint 'WebAPITest.Controllers.ActualsController.GetActualsById (WebAPITest)'
+2022-10-05 15:02:54.650  IN  Request finished HTTP/2 GET https://localhost:7044/api/Actuals/1,4,3 - - - 200 - application/json;+charset=utf-8 4248.7353ms
